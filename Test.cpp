@@ -1,3 +1,4 @@
+#pragma 
 #include "doctest.h"
 #include "PhoneticFinder.hpp"
 using namespace phonetic;
